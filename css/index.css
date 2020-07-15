@@ -1,9 +1,11 @@
+
 #landing-page{
   position: relative;
   min-height: 450px;
   background: #161415 url(../img/backgrounds/hero.jpg) no-repeat top center;
   background-size: cover;
   border-radius: 0;
+  color: #fff;
 }
 .logo{
   position: absolute;
@@ -13,14 +15,12 @@
   position: absolute;
   right: 0;
   top: 7%;
-  
 }
 .shop a{
   margin-left: 20px;
-  color: #fff;
 }
 .mouse-click{
   position: absolute;
-  bottom: 0;
+  bottom: 2%;
   left: 50%;
 }

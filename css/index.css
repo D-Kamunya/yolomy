@@ -18,9 +18,19 @@
 }
 .shop a{
   margin-left: 20px;
+  color: #fff;
 }
 .mouse-click{
   position: absolute;
   bottom: 2%;
   left: 50%;
+}
+.banner{
+  position: absolute;
+  left: 30%;
+  top:  50%;
+  text-align: center
+}
+.banner h1{
+  margin-bottom: 3%;
 }

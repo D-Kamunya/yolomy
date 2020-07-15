@@ -9,3 +9,13 @@
   position: absolute;
   top: 7%;
 }
+.shop{
+  position: absolute;
+  right: 0;
+  top: 7%;
+  
+}
+.shop a{
+  margin-left: 20px;
+  color: #fff;
+}

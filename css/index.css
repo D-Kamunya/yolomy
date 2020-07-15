@@ -1,7 +1,11 @@
-.landing-page{
+#landing-page{
   position: relative;
   min-height: 450px;
   background: #161415 url(../img/backgrounds/hero.jpg) no-repeat top center;
   background-size: cover;
   border-radius: 0;
+}
+.logo{
+  position: absolute;
+  top: 7%;
 }

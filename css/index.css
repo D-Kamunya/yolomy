@@ -27,7 +27,8 @@
 }
 .banner{
   position: absolute;
-  left: 30%;
+  left: 50%;
+  transform: translateX(-50%);
   top:  50%;
   text-align: center
 }
